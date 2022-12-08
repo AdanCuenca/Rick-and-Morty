@@ -1,0 +1,13 @@
+@font-face {
+    font-family: rick_and_morty;
+    src: url('../../assets/in-a-flash.zip');
+}
+
+.card {
+    background-color: chocolate;
+    border: solid cornflowerblue;
+    font-family: rick_and_morty;
+    width: 25em;
+    height: 30em;
+    border-radius: 2em;
+}
